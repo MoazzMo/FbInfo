@@ -1,0 +1,2 @@
+# FbInfo
+FBInfo, is an open source Facebook Information Gathering Tool for almost all the linux distribution along with a cross platform operating system. This tool lets you gather your Information on facebook, gather all the friends email and phone number, from the  public facebook application programming interface. It provides a lot of functionality which most other FBI tools can't do or provide.
