@@ -12,3 +12,6 @@ Commands:(I am starting commands keeping in mind you are a beginner)
 4. git clone https://github.com/blackhatComputing/FbInfo.git
 5. cd FbInfo
 6. python3 fbinfo.py
+
+If you like my work, buy me a coffee sometime :) 
+My paypal link : https://bit.ly/3hcELXN
