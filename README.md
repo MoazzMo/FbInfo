@@ -3,7 +3,7 @@ FBInfo, is an open source Facebook Information Gathering Tool for almost all the
 operating system. This tool lets you gather your Information on facebook, gather all the friends email and phone number, from the 
 public facebook application programming interface. It provides a lot of functionality which most other FBI tools can't do or provide.
 
-For initiating this tool, you are required to have python 3 installed on your desired platform.(Works in almost every platform)
+For initiating this tool, you are required to run this bash script on your terminal.(Works in almost every platform)
 
 Commands:(I am starting commands keeping in mind you are a beginner)
 
