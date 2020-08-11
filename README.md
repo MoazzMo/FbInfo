@@ -6,12 +6,14 @@ public facebook application programming interface. It provides a lot of function
 For initiating this tool, you are required to have python 3 installed on your desired platform.(Works in almost every platform)
 
 Commands:(I am starting commands keeping in mind you are a beginner)
-1. apt-get update
-2. apt-get install python3
-3. apt-get install git (If you don't have git installed)
-4. git clone https://github.com/blackhatComputing/FbInfo.git
-5. cd FbInfo
-6. python3 fbinfo.py
+
+1. apt-get install git (If you don't have git installed)
+2. git clone https://github.com/blackhatComputing/FbInfo.git
+3. cd FbInfo
+5. sudo su
+5. chmod +x fbinfo.sh
+6. bash fbinfo.sh
+7. Enjoy :)
 
 If you like my work, buy me a coffee sometime :) 
 My paypal link : https://bit.ly/3hcELXN
