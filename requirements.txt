@@ -1,0 +1,3 @@
+For running this tool, there is no particular requirements, just run this bash script file in your terminal.
+
+Make sure to mark this as an executable file by "chmod +x fbinfo.sh" & also run this as administrator by sudo
